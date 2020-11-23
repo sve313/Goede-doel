@@ -46,4 +46,6 @@ class GoedeDoelTest {
         assertThat(doel).hasSameHashCodeAs(new GoedeDoel(NAAM));
     }
 
+    //testting
+
 }
